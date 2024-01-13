@@ -1,0 +1,11 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #909;
+}
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border:  #919;
+}
